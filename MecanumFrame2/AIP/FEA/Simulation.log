@@ -1,27 +1,50 @@
-﻿Study Static Analysis:1 started: 10/19/2017, 7:57:11 AM
+﻿Study Static Analysis:1 started: 27/02/2018, 10:22:35 AM
 Number of configurations: 1
-Default mesh: 156658 elements, 320397 nodes
-Mesh at contact 10 is too coarse
-Mesh at contact 12 is too coarse
-Mesh at contact 23 is too coarse
+Default mesh: 219480 elements, 437410 nodes
+Mesh at contact 7 is too coarse
+Mesh at contact 9 is too coarse
+Mesh at contact 16 is too coarse
+Mesh at contact 18 is too coarse
 Mesh at contact 25 is too coarse
-Mesh at contact 35 is too coarse
-Mesh at contact 37 is too coarse
-Mesh at contact 46 is too coarse
+Mesh at contact 27 is too coarse
+Mesh at contact 34 is too coarse
+Mesh at contact 36 is too coarse
+Mesh at contact 39 is too coarse
+Mesh at contact 41 is too coarse
 Mesh at contact 48 is too coarse
-Mesh at contact 51 is too coarse
-Mesh at contact 53 is too coarse
-Mesh at contact 60 is too coarse
-Mesh at contact 62 is too coarse
-Mesh at contact 69 is too coarse
-Mesh at contact 71 is too coarse
-Mesh at contact 78 is too coarse
-Mesh at contact 80 is too coarse
-Mesh at contact 118 is too coarse
-Mesh at contact 123 is too coarse
-Solution time 29s
+Mesh at contact 50 is too coarse
+Mesh at contact 57 is too coarse
+Mesh at contact 59 is too coarse
+Mesh at contact 66 is too coarse
+Mesh at contact 68 is too coarse
+Solution time 43.3s
 Convergence rate: 50%
 Reached the total number of h refinements 
-Study Static Analysis:1 finished: 10/19/2017, 7:57:46 AM
-Total time 0:00:35
+Study        Worst Jacobian ratio :  1  on element 1 finished: 27/02/2018, 10:24:55 AM
+Total time 0:02:20
+
+Study Static Analysis:1 started: 27/02/2018, 10:30:37 AM
+Number of configurations: 1
+Default mesh: 221908 elements, 442680 nodes
+Mesh at contact 7 is too coarse
+Mesh at contact 9 is too coarse
+Mesh at contact 16 is too coarse
+Mesh at contact 18 is too coarse
+Mesh at contact 25 is too coarse
+Mesh at contact 27 is too coarse
+Mesh at contact 34 is too coarse
+Mesh at contact 36 is too coarse
+Mesh at contact 39 is too coarse
+Mesh at contact 41 is too coarse
+Mesh at contact 48 is too coarse
+Mesh at contact 50 is too coarse
+Mesh at contact 57 is too coarse
+Mesh at contact 59 is too coarse
+Mesh at contact 66 is too coarse
+Mesh at contact 68 is too coarse
+Solution time 44.8s
+Convergence rate: 50%
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 27/02/2018, 10:32:56 AM
+Total time 0:02:19
 
