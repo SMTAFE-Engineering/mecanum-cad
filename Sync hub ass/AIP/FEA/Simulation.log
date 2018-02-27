@@ -1,0 +1,12 @@
+﻿Study Modal Analysis:1 started: 27/02/2018, 10:31:12 AM
+Number of configurations: 1
+Default mesh: 68415 elements, 110902 nodes
+Mesh at contact 2 is too coarse
+Model separates into 3 independent components
+Soft spring was added
+Computed 8 frequency modes
+Solution time 20.8s
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  1  on element 1 finished: 27/02/2018, 10:31:52 AM
+Total time 0:00:40
+
